@@ -162,16 +162,6 @@ body{
     float: right
 }
 
-.main-timeline .title {
-    font-size: 19px;
-    font-weight: 700;
-    line-height: 24px;
-    margin: 0 0 15px 0
-}
-
-.main-timeline .description {
-    margin-bottom: 0
-}
 
 .main-timeline .timeline:nth-child(2n) .date-content {
     float: right
