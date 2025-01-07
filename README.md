@@ -6,4 +6,3 @@ Tarea para integrantes de IUJO - TSU en informatica seccion A
 - Jorge Tortolero
 - Eudes Muñoz
 - Paez Christian
-- Angel Morfe
